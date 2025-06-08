@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*~
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# IntelliJ related files
+.idea
+*.iml
+
+tmp/
+venv/
+
+# VS Code related files
+.vscode
+# Logs and runtime-generated data
+*.log
+records.json
+
+# PyInstaller / build artifacts
+build/
+dist/
+*.spec
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Environment files
+.env
+.env.*
+
+
